@@ -1,7 +1,7 @@
-baseURL = "www.example.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Hugo Serif Theme"
-themesDir = "../.."
+themesDir = "themes"
 theme = "hugo-serif-theme"
 
 [module]
