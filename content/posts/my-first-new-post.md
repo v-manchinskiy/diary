@@ -45,7 +45,7 @@ content/
 
 ## Нow i tried to create my first new page in Hugo
 
-The page is not a post, but a slightly different type of post, I thought. Unexpectedly, the method of creating a new page was not so simple for me. I described my experience in the next post: [How to create new page in Hugo]({{< ref "new-page-in-hugo" >}})
+The page is not a post, but a slightly different type of post, I thought. Unexpectedly, the method of creating a new page was not so simple for me. I described my experience in the next post: [How to create new page in Hugo](/posts/new-page-in-hugo/)
 
 ---
 
