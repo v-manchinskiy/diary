@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "mi-Diary"
 theme = "mi-bootstrap-5"
+summaryLength = "15"
 
 [menu]
   [[menu.main]]
