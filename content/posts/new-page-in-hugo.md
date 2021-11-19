@@ -2,6 +2,7 @@
 title = "How to Create New Page in Hugo"
 date = "2021-09-26T23:33:49+03:00"
 draft = false
+tags = ["Hugo"]
 +++
 
 ## How to add a new page in Hugo-based static website

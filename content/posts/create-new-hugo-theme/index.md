@@ -12,3 +12,6 @@ tags: ["Hugo", "Bootstrap"]
 Creating a Hugo Theme From Scratch described here: [Retrolog](https://retrolog.io/blog/creating-a-hugo-theme-from-scratch/)
 
 Samples of the design elements for my theme were taken from [Bootstrap](https://getbootstrap.com/docs/5.1/examples/)
+
+Start Hugo server to view your website on localhost:
+![hugo server command in terminal](hugo-server.webp)

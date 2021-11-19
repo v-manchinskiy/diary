@@ -2,6 +2,7 @@
 title: "My First New Post"
 date: 2021-08-29T18:49:47+03:00
 draft: false
+tags: ["Hugo"]
 ---
 
 ## I have installed Hugo. What is the next steps?
