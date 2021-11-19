@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on mi-Diary</title>
-    <link>/posts/</link>
+    <link>https://diary.moreimpress.com/posts/</link>
     <description>Recent content in Posts on mi-Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Nov 2021 20:01:56 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Nov 2021 20:01:56 +0200</lastBuildDate><atom:link href="https://diary.moreimpress.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Create New Hugo Site</title>
-      <link>/posts/create-new-hugo-site/</link>
+      <link>https://diary.moreimpress.com/posts/create-new-hugo-site/</link>
       <pubDate>Fri, 19 Nov 2021 20:01:56 +0200</pubDate>
       
-      <guid>/posts/create-new-hugo-site/</guid>
+      <guid>https://diary.moreimpress.com/posts/create-new-hugo-site/</guid>
       <description>So, all the preliminary preparations are done.
 Now we create a new site In Terminal tab write: hugo new site hugo-test.</description>
     </item>
     
     <item>
       <title>Create New Hugo Theme With Bootstrap</title>
-      <link>/posts/create-new-hugo-theme/</link>
+      <link>https://diary.moreimpress.com/posts/create-new-hugo-theme/</link>
       <pubDate>Thu, 18 Nov 2021 12:02:10 +0200</pubDate>
       
-      <guid>/posts/create-new-hugo-theme/</guid>
+      <guid>https://diary.moreimpress.com/posts/create-new-hugo-theme/</guid>
       <description>How to create new Hugo theme Creating a Hugo Theme From Scratch described here: Retrolog</description>
     </item>
     
     <item>
       <title>Markdown Syntax</title>
-      <link>/posts/markdown-syntax/</link>
+      <link>https://diary.moreimpress.com/posts/markdown-syntax/</link>
       <pubDate>Fri, 12 Nov 2021 14:47:13 +0200</pubDate>
       
-      <guid>/posts/markdown-syntax/</guid>
+      <guid>https://diary.moreimpress.com/posts/markdown-syntax/</guid>
       <description>Markdown syntax useful resources - basic writing and formatting:
 GitHub Docs
 Daring Fireball</description>
@@ -39,47 +39,47 @@ Now we create a new site In Terminal tab write: hugo new site hugo-test.</descri
     
     <item>
       <title>Hugo Tutorials</title>
-      <link>/posts/hugo-tutorials/</link>
+      <link>https://diary.moreimpress.com/posts/hugo-tutorials/</link>
       <pubDate>Fri, 12 Nov 2021 13:49:33 +0200</pubDate>
       
-      <guid>/posts/hugo-tutorials/</guid>
+      <guid>https://diary.moreimpress.com/posts/hugo-tutorials/</guid>
       <description>Hugo Mini Course
 How to Build a Blazing Fast Static Site With Hugo</description>
     </item>
     
     <item>
       <title>5&#43; Best Free Bootstrap 5 Templates November 2021</title>
-      <link>/posts/free-bootstrap5-templates/</link>
+      <link>https://diary.moreimpress.com/posts/free-bootstrap5-templates/</link>
       <pubDate>Thu, 11 Nov 2021 20:33:55 +0200</pubDate>
       
-      <guid>/posts/free-bootstrap5-templates/</guid>
+      <guid>https://diary.moreimpress.com/posts/free-bootstrap5-templates/</guid>
       <description>Medic Medic is a free website Bootstrap 5 template for doctors, clinics and hospitals based on HTML5 and Bootstrap5.</description>
     </item>
     
     <item>
       <title>How to Create New Page in Hugo</title>
-      <link>/posts/new-page-in-hugo/</link>
+      <link>https://diary.moreimpress.com/posts/new-page-in-hugo/</link>
       <pubDate>Sun, 26 Sep 2021 23:33:49 +0300</pubDate>
       
-      <guid>/posts/new-page-in-hugo/</guid>
+      <guid>https://diary.moreimpress.com/posts/new-page-in-hugo/</guid>
       <description>How to add a new page in Hugo-based static website  Create new file named home.</description>
     </item>
     
     <item>
       <title>My First New Post</title>
-      <link>/posts/my-first-new-post/</link>
+      <link>https://diary.moreimpress.com/posts/my-first-new-post/</link>
       <pubDate>Sun, 29 Aug 2021 18:49:47 +0300</pubDate>
       
-      <guid>/posts/my-first-new-post/</guid>
+      <guid>https://diary.moreimpress.com/posts/my-first-new-post/</guid>
       <description>I have installed Hugo. What is the next steps? I have installed Hugo for the first time following to the guide on Cloudflare.</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>/posts/hello-world/</link>
+      <link>https://diary.moreimpress.com/posts/hello-world/</link>
       <pubDate>Fri, 27 Aug 2021 16:17:37 +0300</pubDate>
       
-      <guid>/posts/hello-world/</guid>
+      <guid>https://diary.moreimpress.com/posts/hello-world/</guid>
       <description>HELLO WORLD
 My first text</description>
     </item>

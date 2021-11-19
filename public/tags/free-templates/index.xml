@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Free Templates on mi-Diary</title>
-    <link>/tags/free-templates/</link>
+    <link>https://diary.moreimpress.com/tags/free-templates/</link>
     <description>Recent content in Free Templates on mi-Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Nov 2021 20:33:55 +0200</lastBuildDate><atom:link href="/tags/free-templates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Nov 2021 20:33:55 +0200</lastBuildDate><atom:link href="https://diary.moreimpress.com/tags/free-templates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5&#43; Best Free Bootstrap 5 Templates November 2021</title>
-      <link>/posts/free-bootstrap5-templates/</link>
+      <link>https://diary.moreimpress.com/posts/free-bootstrap5-templates/</link>
       <pubDate>Thu, 11 Nov 2021 20:33:55 +0200</pubDate>
       
-      <guid>/posts/free-bootstrap5-templates/</guid>
+      <guid>https://diary.moreimpress.com/posts/free-bootstrap5-templates/</guid>
       <description>Medic Medic is a free website Bootstrap 5 template for doctors, clinics and hospitals based on HTML5 and Bootstrap5.</description>
     </item>
     

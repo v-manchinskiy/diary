@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://diary.moreimpress.com/"
 languageCode = "en-us"
 title = "mi-Diary"
 theme = "mi-bootstrap-5"

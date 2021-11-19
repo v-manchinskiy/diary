@@ -1,173 +1,123 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/create-new-hugo-site/</loc>
+    <loc>https://diary.moreimpress.com/posts/create-new-hugo-site/</loc>
     <lastmod>2021-11-19T20:01:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/posts/create-new-hugo-site/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://diary.moreimpress.com/tags/hugo/</loc>
     <lastmod>2021-11-19T20:01:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/tags/hugo/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://diary.moreimpress.com/</loc>
     <lastmod>2021-11-19T20:01:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://diary.moreimpress.com/posts/</loc>
     <lastmod>2021-11-19T20:01:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/posts/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://diary.moreimpress.com/tags/</loc>
     <lastmod>2021-11-19T20:01:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/tags/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/tutorial/</loc>
+    <loc>https://diary.moreimpress.com/tags/tutorial/</loc>
     <lastmod>2021-11-19T20:01:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/tags/tutorial/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/bootstrap/</loc>
+    <loc>https://diary.moreimpress.com/tags/bootstrap/</loc>
     <lastmod>2021-11-18T12:02:10+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/tags/bootstrap/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/create-new-hugo-theme/</loc>
+    <loc>https://diary.moreimpress.com/posts/create-new-hugo-theme/</loc>
     <lastmod>2021-11-18T12:02:10+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/posts/create-new-hugo-theme/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/markdown-syntax/</loc>
+    <loc>https://diary.moreimpress.com/posts/markdown-syntax/</loc>
     <lastmod>2021-11-12T14:47:13+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/posts/markdown-syntax/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/hugo-tutorials/</loc>
+    <loc>https://diary.moreimpress.com/posts/hugo-tutorials/</loc>
     <lastmod>2021-11-12T13:49:33+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/posts/hugo-tutorials/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/free-bootstrap5-templates/</loc>
+    <loc>https://diary.moreimpress.com/posts/free-bootstrap5-templates/</loc>
     <lastmod>2021-11-11T20:33:55+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/posts/free-bootstrap5-templates/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/free-templates/</loc>
+    <loc>https://diary.moreimpress.com/tags/free-templates/</loc>
     <lastmod>2021-11-11T20:33:55+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/tags/free-templates/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/web-design/</loc>
+    <loc>https://diary.moreimpress.com/tags/web-design/</loc>
     <lastmod>2021-11-11T20:33:55+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/tags/web-design/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/new-page-in-hugo/</loc>
+    <loc>https://diary.moreimpress.com/posts/new-page-in-hugo/</loc>
     <lastmod>2021-09-26T23:33:49+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/posts/new-page-in-hugo/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/my-first-new-post/</loc>
+    <loc>https://diary.moreimpress.com/posts/my-first-new-post/</loc>
     <lastmod>2021-08-29T18:49:47+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/posts/my-first-new-post/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/hello-world/</loc>
+    <loc>https://diary.moreimpress.com/posts/hello-world/</loc>
     <lastmod>2021-08-27T16:17:37+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/posts/hello-world/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="/categories/"
-                />
+    <loc>https://diary.moreimpress.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
