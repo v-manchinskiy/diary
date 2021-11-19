@@ -6,22 +6,49 @@
     <description>Recent content in Tags on mi-Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 17:37:46 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Nov 2021 20:01:56 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bar</title>
-      <link>/tags/bar/</link>
-      <pubDate>Wed, 17 Nov 2021 17:37:46 +0200</pubDate>
+      <title>Hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Fri, 19 Nov 2021 20:01:56 +0200</pubDate>
       
-      <guid>/tags/bar/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>foo</title>
-      <link>/tags/foo/</link>
-      <pubDate>Wed, 17 Nov 2021 17:37:46 +0200</pubDate>
+      <title>Tutorial</title>
+      <link>/tags/tutorial/</link>
+      <pubDate>Fri, 19 Nov 2021 20:01:56 +0200</pubDate>
       
-      <guid>/tags/foo/</guid>
+      <guid>/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>/tags/bootstrap/</link>
+      <pubDate>Thu, 18 Nov 2021 12:02:10 +0200</pubDate>
+      
+      <guid>/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free Templates</title>
+      <link>/tags/free-templates/</link>
+      <pubDate>Thu, 11 Nov 2021 20:33:55 +0200</pubDate>
+      
+      <guid>/tags/free-templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>/tags/web-design/</link>
+      <pubDate>Thu, 11 Nov 2021 20:33:55 +0200</pubDate>
+      
+      <guid>/tags/web-design/</guid>
       <description></description>
     </item>
     

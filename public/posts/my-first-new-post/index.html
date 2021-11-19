@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html><head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+   <link rel="stylesheet" type="text/css" href="/css/style.css">   
+   
+   
+   <title>mi-Diary | My First New Post</title>
+</head>
+<body><div id="nav-border" class="container">
+   <nav id="nav" class="nav justify-content-center">
+       
+       <a class="nav-link" href="/">
+       
+       
+       Home
+       </a>
+       
+       <a class="nav-link" href="/posts/">
+       
+       
+       Posts
+       </a>
+       
+       <a class="nav-link" href="/tags/">
+       
+       
+       Tags
+       </a>
+       
+   </nav>
+</div><div id="content" class="container">
+<h1>My First New Post</h1>
+
+ 
+<svg class="bi" width="16" height="16" fill="currentColor">
+   <use xlink:href="/icon/bootstrap-icons.svg#calendar"/>
+ </svg>
+<time datetime="2021-08-29">Aug 29, 2021</time>
+
+<i data-feather="tag"></i>
+
+
+<a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/hugo">Hugo</a>
+
+
+<br><br>
+<h2 id="i-have-installed-hugo-what-is-the-next-steps">I have installed Hugo. What is the next steps?</h2>
+<p>I have installed Hugo for the first time following to the guide on 
+
+<a href="https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site" target="_blank">Cloudflare</a>. What is the next step? There are two choices:</p>
+<ul>
+<li>Add some testing content,</li>
+<li>Try to instal a new theme.</li>
+</ul>
+<p>I chose the first one. Then I had the following question:</p>
+<h2 id="how-to-create-new-post-in-hugo">How to create new post in Hugo</h2>
+<p>There is two ways to create new content files:</p>
+<ul>
+<li>Manually, i.e. place <code>new-file.md</code> into <code>content/posts</code> folder and write metadata (front matter) in them manually too.</li>
+<li>Automatically, i.e. use the <code>new</code> command.</li>
+</ul>
+<p>Of course, I chose automatic method: opened the terminal in my editor and wrote:</p>
+<p><code>hugo new posts/my-first-post.md</code></p>
+<p>And I immediately saw such an important advantage of creating new posts through the Terminal, as I received a new file with the already generated Frontmatter.</p>
+<h3 id="how-to-insert-an-image-in-hugo-content">How to insert an image in Hugo content</h3>
+<p>Content organization in Hugo can be done in different ways. More often I use the Page Bundles, that is Leaf Bundle (🔗📘
+
+<a href="https://gohugo.io/content-management/page-bundles/" target="_blank">Hugo Docs</a>), because it allows me to gather all the elements of the post.</p>
+<p>So, create a folder with the name of this new post - <code>new-post-with-images</code>, then add a file <code>index.md</code> to it and the desired images. The structure should look something like this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">content/
+   ├── posts/
+   │   ├── new-post-with-images/
+   │   │   ├── index.md
+   │   │   ├── image1.jpg
+   │   │   ├── image2.png
+   │   └── my-other-post/
+   │       └── index.md
+</code></pre></div><h2 id="нow-i-tried-to-create-my-first-new-page-in-hugo">Нow i tried to create my first new page in Hugo</h2>
+<p>The page is not a post, but a slightly different type of post, I thought. Unexpectedly, the method of creating a new page was not so simple for me. I described my experience in the next post: 
+
+
+  <a href="/posts/new-page-in-hugo/">How to create new page in Hugo</a></p>
+<hr>
+<h2 id="useful-links-i-used-for-creating-the-first-new-post-in-hugo">Useful links I used for creating the first new post in Hugo</h2>
+<ul>
+<li>Basic syntax of Markdown: 
+
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">The Markdown Guide</a></li>
+<li>Getting started with Hugo: 
+
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Hugo Docs</a></li>
+</ul>
+
+
+        </div><p class="footer text-center">Copyright (c) 2021 Valerii Manchynskyi</p></body>
+</html>

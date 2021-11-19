@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Design on mi-Diary</title>
+    <link>/tags/web-design/</link>
+    <description>Recent content in Web Design on mi-Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Nov 2021 20:33:55 +0200</lastBuildDate><atom:link href="/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5&#43; Best Free Bootstrap 5 Templates November 2021</title>
+      <link>/posts/free-bootstrap5-templates/</link>
+      <pubDate>Thu, 11 Nov 2021 20:33:55 +0200</pubDate>
+      
+      <guid>/posts/free-bootstrap5-templates/</guid>
+      <description>Medic Medic is a free website Bootstrap 5 template for doctors, clinics and hospitals based on HTML5 and Bootstrap5.</description>
+    </item>
+    
+  </channel>
+</rss>
