@@ -50,14 +50,56 @@
 
 
 <br><br>
-<p>So, all the preliminary preparations are done.</p>
-<h2 id="now-we-create-a-new-site">Now we create a new site</h2>
-<p>In Terminal tab write: <code>hugo new site hugo-test</code>. Words &ldquo;hugo-test&rdquo; you can replase with your own site name.</p>
+<h2 id="-preparing-to-create-a-new-site">✔️ Preparing to create a new site</h2>
+<p>Instal Hugo Extended last version as stated here: 
+
+<a href="https://gohugo.io/getting-started/installing/" target="_blank">Hugo Docs</a>.</p>
+<p>Below I describe my version of this process <strong>for Windows 10 users</strong>.</p>
+<ol>
+<li>Go to the Hugo releases page: 
+
+<a href="https://github.com/gohugoio/hugo/releases" target="_blank">GitHub</a>.</li>
+<li>Find and download the latest release of <strong>Hugo Extended</strong> for your operating system, the 32-bit or 64-bit file depending on whether you have 32-bit or 64-bit Windows.</li>
+<li>Move the dowloaded ZIP file into your Hugo bin folder: <code>C:\Hugo\bin</code> and extract it into the current folder. Now you&rsquo;re supposed to have three new files here: <code>hugo</code> (executable), <code>LICENSE</code>, <code>README</code>.
+<img src="extract-hugo-bin.jpg" alt="extract zip in hugo bin"></li>
+<li>Add Hugo to your Windows PATH settings:
+<ul>
+<li>Right click on the Start button.</li>
+<li>Click on System.</li>
+<li>Click on Advanced System Settings on the left.</li>
+<li>Click on the Environment Variables… button on the bottom.</li>
+<li>In the User variables section, find the row that starts with PATH (PATH will be all caps).</li>
+<li>Double-click on PATH.</li>
+<li>Click the New… button.</li>
+<li>Type in the folder where <code>hugo.exe</code> was extracted, which is <code>C:\Hugo\bin</code> if you went by the instructions above. The PATH entry should be the folder where Hugo lives and not the binary. Press Enter when you’re done typing.</li>
+<li>Click OK at every window to exit.</li>
+</ul>
+</li>
+</ol>
+<p>👍 So, all the preliminary preparations are done.</p>
+<h2 id="-now-you-will-create-a-new-hugo-site">💡 Now you will create a new Hugo site</h2>
+<p>Run 
+
+<a href="https://code.visualstudio.com/" target="_blank">VS Code</a> app. In Terminal tab write: <code>hugo new site hugo-test</code> . Words &ldquo;hugo-test&rdquo; you can replace with your own site name.</p>
 <p><img src="create-new-site.jpg" alt="create new hugo site"></p>
 <p>Further click &ldquo;Enter&rdquo;.</p>
-<p>✨ Get your congratulations 😊👍:</p>
+<p>✨🎓 Get your congratulations 😊👍:</p>
 <p><img src="create-new-site-2.jpg" alt="new hugo  site was created"></p>
 <p>Your new Hugo site was created in a moment!</p>
+<h2 id="-create-new-github-repository-for-existing-hugo-site-local-folder">➕ Create new GitHub repository for existing Hugo site local folder</h2>
+<ol>
+<li>Run 
+
+<a href="https://desktop.github.com/" target="_blank">GitHub Desktop</a> app, click &ldquo;File&rdquo;-&gt;&ldquo;Option&rdquo; and connect to you GitHub account.
+<img src="github-desktop-options.jpg" alt="github desktop options">
+<img src="github-desktop-account.jpg" alt="github desktop account"></li>
+<li>On the top left corner, click &ldquo;File&rdquo;-&gt;&ldquo;Add local repository&rdquo;
+<img src="add-repository.jpg" alt="add to gitgub repository"></li>
+<li>In modal dialog set &ldquo;Local path&rdquo; to your new Hugo site folder by clicking &ldquo;Choose&hellip;&rdquo; button. Then click to link &ldquo;create a repository&rdquo; (don&rsquo;t click &ldquo;Add repository&rdquo; button).
+<img src="add-repository-2.jpg" alt="add new Hugo site to github"></li>
+<li>Publish new repository to GitHub by clicking on &ldquo;Publish repository&rdquo; button and confirmation in the next dialog.
+<img src="publish-repository.jpg" alt="publish new repository on GitHub"></li>
+</ol>
 
 
         </div><p class="footer text-center">Copyright (c) 2021 Valerii Manchynskyi</p></body>

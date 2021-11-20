@@ -13,7 +13,8 @@
       <pubDate>Thu, 18 Nov 2021 12:02:10 +0200</pubDate>
       
       <guid>https://diary.moreimpress.com/posts/create-new-hugo-theme/</guid>
-      <description>How to create new Hugo theme Creating a Hugo Theme From Scratch described here: Retrolog</description>
+      <description>Pre-requisites You must have:
+ Installed Hugo on local machine. Your own working Hugo test site.</description>
     </item>
     
     <item>

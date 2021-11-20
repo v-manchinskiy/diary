@@ -13,8 +13,17 @@
       <pubDate>Fri, 19 Nov 2021 20:01:56 +0200</pubDate>
       
       <guid>https://diary.moreimpress.com/posts/create-new-hugo-site/</guid>
-      <description>So, all the preliminary preparations are done.
-Now we create a new site In Terminal tab write: hugo new site hugo-test.</description>
+      <description>✔️ Preparing to create a new site Instal Hugo Extended last version as stated here: Hugo Docs.</description>
+    </item>
+    
+    <item>
+      <title>Create New Hugo Theme With Bootstrap</title>
+      <link>https://diary.moreimpress.com/posts/create-new-hugo-theme/</link>
+      <pubDate>Thu, 18 Nov 2021 12:02:10 +0200</pubDate>
+      
+      <guid>https://diary.moreimpress.com/posts/create-new-hugo-theme/</guid>
+      <description>Pre-requisites You must have:
+ Installed Hugo on local machine. Your own working Hugo test site.</description>
     </item>
     
   </channel>
