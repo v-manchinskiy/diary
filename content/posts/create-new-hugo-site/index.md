@@ -7,9 +7,9 @@ tags: ["Hugo", "Tutorial"]
 
 So, all the preliminary preparations are done.
 
-## Now we create a new site
+## Now we create a new Hugo site
 
-In Terminal tab write: `hugo new site hugo-test`. Words "hugo-test" you can replase with your own site name.
+In Terminal tab write: `hugo new site hugo-test` . Words "hugo-test" you can replase with your own site name.
 
 ![create new hugo site](create-new-site.jpg)
 
