@@ -11,7 +11,7 @@ Instal Hugo Extended last version as stated here: [Hugo Docs](https://gohugo.io/
 
 Below I describe my version of this process **for Windows 10 users**.
 
-1. Go to the Hugo releases page: [GitHub](https://github.com/gohugoio/hugo/releases). 
+1. Go to the Hugo releases page: [GitHub](https://github.com/gohugoio/hugo/releases).
 2. Find and download the latest release of **Hugo Extended** for your operating system, the 32-bit or 64-bit file depending on whether you have 32-bit or 64-bit Windows.
 3. Move the dowloaded ZIP file into your Hugo bin folder: `C:\Hugo\bin` and extract it into the current folder. Now you're supposed to have three new files here: `hugo` (executable), `LICENSE`, `README`.
 ![extract zip in hugo bin](extract-hugo-bin.jpg)
@@ -51,5 +51,13 @@ Your new Hugo site was created in a moment!
 ![add to gitgub repository](add-repository.jpg)
 3. In modal dialog set "Local path" to your new Hugo site folder by clicking "Choose..." button. Then click to link "create a repository" (don't click "Add repository" button).
 ![add new Hugo site to github](add-repository-2.jpg)
-4. Publish new repository to GitHub by clicking on "Publish repository" button and confirmation in the next dialog.
+4. In the next dialog "Create a new repository" click "Initialize new repository with README" and then click "Create repositiry" button.
+![create repository](create-repository.jpg)
+5. Publish new repository to GitHub by clicking on "Publish repository" button.
 ![publish new repository on GitHub](publish-repository.jpg)
+6. Here the next dialog windows. Write "Description" of your new GitHub repository in the corresponding text field and click "Publish repository" button.
+![publish new GitHub repository](publish-repository-2.jpg)
+7. Now make sure everything is done correctly. In the GitHub Desktop application click "View on GitGub" button.
+![view repository](view-repository.jpg)
+8. ✨ Your new repository on githab is created! 👍
+![view GitHub repository](view-repository-2.jpg)

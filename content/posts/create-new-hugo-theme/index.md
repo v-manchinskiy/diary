@@ -1,5 +1,5 @@
 ---
-title: "Create New Hugo Theme With Bootstrap"
+title: "Create New Hugo Theme With Bootstrap 5"
 date: 2021-11-18T12:02:10+02:00
 draft: false
 tags: ["Hugo", "Bootstrap", "Tutorial"]
