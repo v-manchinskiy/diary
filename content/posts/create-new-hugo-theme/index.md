@@ -20,7 +20,10 @@ If it is not, you need [install Hugo and create a new Hugo site](/posts/create-n
 
 1. So, your Hugo site has the following basic folder structure:
 ![theme folder in Hugo structure](folder-structure.jpg)
-2. In Terminal tab go into your Hugo test site folder: `cd test-site`. (for go up in folder tree you can use the command `cd ..`).
+2. In Terminal tab go into your Hugo test site folder: `cd test-site` If you need go up in folder tree you can use the command `cd ..`
+3. Now create a new theme with a name you like. In Your Terminal tab write the command: `hugo new theme my-theme`
+![create a new hugo theme](create-new-hugo-theme.jpg)
+4. next
 
 Creating a Hugo Theme From Scratch described here: [Retrolog](https://retrolog.io/blog/creating-a-hugo-theme-from-scratch/)
 
