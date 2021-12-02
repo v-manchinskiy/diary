@@ -63,4 +63,4 @@ Your new Hugo site was created in a moment!
 ![view GitHub repository](view-repository-2.jpg)
 
 ## ✔️ Add a theme to your new Hugo site
-Now you can to add an existing theme to your site from here - [GoHugo](https://themes.gohugo.io/) or [create your own new Hugo theme](content/posts/create-new-hugo-theme/) and then to add it.
+Now you can to add an existing theme to your site from here - [GoHugo](https://themes.gohugo.io/) or [create your own new Hugo theme](create-new-hugo-theme) and then to add it.
