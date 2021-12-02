@@ -23,7 +23,7 @@ If it is not, you need [install Hugo and create a new Hugo site](/posts/create-n
 2. In the Terminal tab go into your Hugo test site folder: `cd test-site` If you need to go up in the folder tree you can use the command `cd ..`
 3. Now create a new theme with a name you like. In Your Terminal tab write the command: `hugo new theme my-theme`
 ![create a new hugo theme](create-new-hugo-theme.jpg)
-4. Download Bootstrap 5 and unzip it. 
+4. Download Bootstrap 5 and unzip it.
 5. Copy, paste and rename the Bootstrap `scss` folder into `assets` directory in your theme.
 6. Create `my-theme.scss` file in `themes/my-theme/assets/` directory.
 
