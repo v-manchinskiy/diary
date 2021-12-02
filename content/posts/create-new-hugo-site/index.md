@@ -7,7 +7,7 @@ tags: ["Hugo", "Tutorial"]
 
 ## ✔️ Preparing to create a new site
 
-Instal Hugo Extended last version as stated here: [Hugo Docs](https://gohugo.io/getting-started/installing/).
+Instal Hugo Extended last version as stated here: [GoHugo](https://gohugo.io/getting-started/installing/).
 
 Below I describe my version of this process **for Windows 10 users**.
 
@@ -28,7 +28,7 @@ Below I describe my version of this process **for Windows 10 users**.
 
 👍 So, all the preliminary preparations are done.
 
-## 💡 Now you will create a new Hugo site
+## ✔️ Now you will create a new Hugo site
 
 Run [VS Code](https://code.visualstudio.com/) app. In Terminal tab write: `hugo new site hugo-test` . Words "hugo-test" you can replace with your own site name.
 
@@ -42,7 +42,7 @@ Further click "Enter".
 
 Your new Hugo site was created in a moment!
 
-## ➕ Create new GitHub repository for existing Hugo site local folder
+### ➕ Create new GitHub repository for existing Hugo site local folder
 
 1. Run [GitHub Desktop](https://desktop.github.com/) app, click "File"->"Option" and connect to you GitHub account.
 ![github desktop options](github-desktop-options.jpg)
@@ -61,3 +61,6 @@ Your new Hugo site was created in a moment!
 ![view repository](view-repository.jpg)
 8. ✨ Your new repository on githab is created! 👍
 ![view GitHub repository](view-repository-2.jpg)
+
+## ✔️ Add a theme to your new Hugo site
+Now you can to add an existing theme to your site from here - [GoHugo](https://themes.gohugo.io/) or [create your own new Hugo theme](content/posts/create-new-hugo-theme/) and then to add it.
