@@ -9,9 +9,9 @@ tags: ["Hugo", "Bootstrap", "Tutorial"]
 
 ## Pre-requisites
 
-To create new Hugo theme from scratch you must have:
+To create a new Hugo theme from scratch you must have:
 
-1. Installed Hugo on local machine.
+1. Installed Hugo on the local machine.
 2. Your own working Hugo test site.
 
 If it is not, you need [install Hugo and create a new Hugo site](/posts/create-new-hugo-site/).
@@ -20,11 +20,11 @@ If it is not, you need [install Hugo and create a new Hugo site](/posts/create-n
 
 1. So, your Hugo site has the following basic folder structure:
 ![theme folder in Hugo structure](folder-structure.jpg)
-2. In Terminal tab go into your Hugo test site folder: `cd test-site` If you need go up in folder tree you can use the command `cd ..`
+2. In the Terminal tab go into your Hugo test site folder: `cd test-site` If you need to go up in the folder tree you can use the command `cd ..`
 3. Now create a new theme with a name you like. In Your Terminal tab write the command: `hugo new theme my-theme`
 ![create a new hugo theme](create-new-hugo-theme.jpg)
 4. Download Bootstrap 5 and unzip it. 
-5. Copy, paste and rename Bootstrap `scss` folder into `assets` directory in your theme.
+5. Copy, paste and rename the Bootstrap `scss` folder into `assets` directory in your theme.
 6. Create `my-theme.scss` file in `themes/my-theme/assets/` directory.
 
 Creating a Hugo Theme From Scratch described here: [Retrolog](https://retrolog.io/blog/creating-a-hugo-theme-from-scratch/)
