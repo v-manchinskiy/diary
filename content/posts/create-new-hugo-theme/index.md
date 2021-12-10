@@ -9,6 +9,8 @@ tags: ["Hugo", "Bootstrap", "Tutorial"]
 
 ## Pre-requisites
 
+**_NOTE:_** If you are new to Hugo or web design in general, it's a good idea to start with a working site. You will definitely break things during experiments.
+
 To create a new Hugo theme from scratch you must have:
 
 1. Installed Hugo on the local machine.
@@ -110,6 +112,14 @@ Then save it.
 Place the favicon file inside the `static` folder. The `static` folder is located in the root of your Hugo website - `hugo-test/static/`. During the generation of your website, the favicon will be copied to . public, the root of the generated site.
 
 For test tasks, you can put the favicon in `themes/my-theme/static/` directory.
+
+### 9. Create footer and add javascript
+
+Open `themes/my-theme/layouts/partials/footer.html` and insert the following code:
+
+```
+
+```
 
 ### #. Start Hugo server on localhost
 
