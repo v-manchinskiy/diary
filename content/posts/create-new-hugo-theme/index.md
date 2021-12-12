@@ -85,6 +85,7 @@ Now include your new stylesheet and put other meta tags in head of the page.
 Open the file `themes/mytheme/layouts/partials/head.html` and paste this code:
 
 ```html
+
 <head>
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -103,6 +104,7 @@ Open the file `themes/mytheme/layouts/partials/head.html` and paste this code:
    <link rel="stylesheet" href="{{ $style.Permalink }}">
 
 </head>
+
 ```
 
 Then save it.
@@ -117,17 +119,24 @@ For test tasks, you can put the favicon in `themes/my-theme/static/` directory.
 
 Open `themes/my-theme/layouts/partials/footer.html` and insert the following code:
 
-```
+```html
+
+<footer class="footer fixed-bottom bg-dark">
+
+   <div class="row footer-text">
+     <div class="col-12 col-md text-center text-md-left nav-link text-white">Copyright (c) {{ now.Format "2006"}} John Doe. All rights reserved.</div>
+   </div>
+
+ <!-- JavaScripts -->
+
+ {{ $bootstrapjs := resources.Get "js/bootstrap.bundle.min.js" | resources.Minify }}
+ <script defer language="javascript" type="text/javascript" src="{{ $bootstrapjs.RelPermalink }}"></script>
+
+</footer>
 
 ```
 
-### #. Start Hugo server on localhost
+### 10. Start Hugo server on localhost
 
-Start Hugo server to view your website on localhost:
+Run `hugo server` command in Terminal. It starts Hugo server to view your website on localhost.
 ![hugo server command in terminal](hugo-server.webp)
-
-- - -
-
-Creating a Hugo Theme From Scratch also described here: [Retrolog](https://retrolog.io/blog/creating-a-hugo-theme-from-scratch/)
-
-Samples of the design elements for this tutorial were taken from [GetBootstrap](https://getbootstrap.com/docs/5.1/examples/). You can use also [Auro](https://ayroui.com/bootstrap-components)
