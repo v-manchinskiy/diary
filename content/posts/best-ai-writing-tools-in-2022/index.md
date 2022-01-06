@@ -13,3 +13,5 @@ AI's writing assistant tools use machine learning to help users through various 
 
 ![Ginger’s Sentence Rephraser](ginger-logo.jpg)
 [Ginger’s Sentence Rephraser](https://www.gingersoftware.com/products/sentence-rephraser) offers comprehensive, real-time online suggestions to help improve word choice, enhance tone, make sentences clearer, and fix grammatic mistakes. With just one simple click users can rephrase a sentence with word synonyms, antonyms, idioms and phrases.
+
+Also, this is a simple solution for translation problems. This service is available as Chrome browser extension and users can search through a massive database of words and phrases. Users will be able to translate the same sentence into different languages, for example English to French. It will support both text-to-speech and speech-to-text in real time and work across all platforms.
