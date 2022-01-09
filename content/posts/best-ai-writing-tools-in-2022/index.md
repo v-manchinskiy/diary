@@ -21,4 +21,4 @@ Also, **this is a simple solution for translation** problems. This service is av
 ### Simpified
 
 ![simplified-logo.jpg](simplified-logo.jpg)
-[Simplified](https://simplified.co/ai-copywriting) is an free AI copywriting generator for more then 30 types of content.
+[Simplified](https://simplified.co/?fpr=valerii48) is an free AI copywriting generator for more then 30 types of content. You can now create all your marketing copy using AI and publish it on Facebook, Google, Amazon, LinkedIn, and Instagram. The AI writer tool is available for free.
