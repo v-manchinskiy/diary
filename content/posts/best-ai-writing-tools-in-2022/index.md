@@ -21,4 +21,4 @@ Also, **this is a simple solution for translation** problems. This service is av
 ### Simpified
 
 ![simplified-logo.jpg](simplified-logo.jpg)
-[Simplified]() is an free AI copywriting generator for more then 30 types of content.
+[Simplified](https://simplified.co/ai-copywriting) is an free AI copywriting generator for more then 30 types of content.
