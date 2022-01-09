@@ -11,7 +11,14 @@ AI's writing assistant tools use machine learning to help users through various 
 
 ## Best online AI writing tools with free options
 
-![Ginger’s Sentence Rephraser](ginger-logo.jpg)
-[Ginger’s Sentence Rephraser](https://www.gingersoftware.com/products/sentence-rephraser) offers comprehensive, real-time online suggestions to help improve word choice, enhance tone, make sentences clearer, and fix grammatic mistakes. With just one simple click users can rephrase a sentence with word synonyms, antonyms, idioms and phrases.
+### Ginger
 
-Also, this is a simple solution for translation problems. This service is available as Chrome browser extension and users can search through a massive database of words and phrases. Users will be able to translate the same sentence into different languages, for example English to French and work across all platforms.
+![Ginger’s Sentence Rephraser](ginger-logo.jpg)
+[Ginger’s Sentence Rephraser](https://www.gingersoftware.com/products/sentence-rephraser) offers comprehensive, real-time online suggestions to help improve word choice, enhance tone, make sentences clearer, and fix grammatic mistakes. With just one simple click users can **rephrase a sentence with word synonyms, antonyms, idioms and phrases**.
+
+Also, **this is a simple solution for translation** problems. This service is available as Chrome browser extension and users can search through a massive database of words and phrases. Users will be able to translate the same sentence into different languages, for example English to French and work across all platforms.
+
+### Simpified
+
+![simplified-logo.jpg](simplified-logo.jpg)
+[Simplified]() is an free AI copywriting generator for more then 30 types of content.
