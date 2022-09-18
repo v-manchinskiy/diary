@@ -13,7 +13,7 @@ Below I describe my version of this process **for Windows 10 users**.
 
 1. Go to the Hugo releases page: [GitHub](https://github.com/gohugoio/hugo/releases).
 2. Find and download the latest release of **Hugo Extended** for your operating system, the 32-bit or 64-bit file depending on whether you have 32-bit or 64-bit Windows.
-3. Move the dowloaded ZIP file into your Hugo bin folder: `C:\Hugo\bin` and extract it into the current folder. Now you're supposed to have three new files here: `hugo` (executable), `LICENSE`, `README`.
+3. Move the dowloaded ZIP file into your Hugo bin folder `C:\Hugo\bin` and extract it into the current folder. Now you're supposed to have three new files here: `hugo` (executable), `LICENSE` and `README`.
 ![extract zip in hugo bin](extract-hugo-bin.jpg)
 4. Add Hugo to your Windows PATH settings:
     - Right click on the Start button.
@@ -43,6 +43,8 @@ Further click "Enter".
 Your new Hugo site was created in a moment!
 
 ### ➕ Create new GitHub repository for existing Hugo site local folder
+
+💡Tip: You can add a Git repository from your local computer to GitHub Desktop by dragging the folder onto the GitHub Desktop window.
 
 1. Run [GitHub Desktop](https://desktop.github.com/) app, click "File"->"Option" and connect to you GitHub account.
 ![github desktop options](github-desktop-options.jpg)
